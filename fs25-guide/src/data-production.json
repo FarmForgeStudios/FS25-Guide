@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Moulin à grains",
+    "inputs": ["Blé", "Sorgho", "Orge", "Avoine", "Riz long grain", "Riz", "Maïs"],
+    "outputs": ["Farine", "Farine de blé", "Farine d'orge", "Farine d'avoine", "Farine de sorgho", "Farine de maïs", "Farine de riz"]
+  },
+  {
+    "name": "Scierie",
+    "inputs": ["Sapin"],
+    "outputs": ["Planches", "Longues planches", "Poutres en bois", "Mur préfabriqué", "Copeaux de bois"]
+  },
+  {
+    "name": "Cimenterie",
+    "inputs": ["Pierres"],
+    "outputs": ["Sacs de ciment", "Tôle de toiture", "Briques en ciment"]
+  },
+  {
+    "name": "Laiterie",
+    "inputs": ["Lait", "Lait de bufflonne", "Lait de chèvre", "Sucre"],
+    "outputs": ["Lait de vache (en bouteille)", "Lait de chèvre (en bouteille)", "Lait de bufflonne (en bouteille)", "Mozzarella de bufflonne", "Fromage de chèvre", "Chocolat", "Beurre"]
+  },
+  {
+    "name": "Usine de papier",
+    "inputs": ["Sapin"],
+    "outputs": ["Rouleau de papier", "Rouleau de carton"]
+  },
+  {
+    "name": "Filature",
+    "inputs": ["Laine", "Coton"],
+    "outputs": ["Tissu"]
+  },
+  {
+    "name": "Tonnellerie",
+    "inputs": ["Planches", "Longues planches"],
+    "outputs": ["Tonneau", "Seau", "Baignoire", "Copeaux de bois"]
+  },
+  {
+    "name": "Conserverie",
+    "inputs": ["Carottes", "Chou", "Betterave", "Epinards", "Panais", "Riz", "Petits pois", "Riz long grain"],
+    "outputs": ["Carottes en conserve", "Betteraves en conserve", "Panais en conserve", "Petit pois en conserve", "Chou fermenté", "Sacs d'épinards", "Sacs de riz", "Boîtes de riz"]
+  },
+  {
+    "name": "Moulin à canne à sucre",
+    "inputs": ["Betteraves sucrières", "Betteraves sucrières coupées", "Canne à sucre"],
+    "outputs": ["Sucre"]
+  },
+  {
+    "name": "Moulin à huile",
+    "inputs": ["Colza", "Tournesols", "Olives"],
+    "outputs": ["Huile de colza", "Huile de tournesols", "Huile d'olives"]
+  },
+  {
+    "name": "Usine de soupe",
+    "inputs": ["Pomme de terre", "Carottes", "Panais", "Betterave", "Riz", "Riz long grain"],
+    "outputs": ["Soupe de pomme de terre", "Soupe de carotte", "Soupe de panais", "Soupe de betterave", "Soupe en conserve", "Soupe de nouilles"]
+  },
+  {
+    "name": "Menuiserie",
+    "inputs": ["Sapin", "Planches", "Longues planches"],
+    "outputs": ["Mobilier"]
+  },
+  {
+    "name": "Atelier de tailleur",
+    "inputs": ["Tissu"],
+    "outputs": ["Vetements"]
+  },
+  {
+    "name": "Usine de biogaz 1 MW",
+    "inputs": ["Lisier", "Fumier", "Ensilage", "Betteraves sucrières coupées"],
+    "outputs": ["Digestat"]
+  },
+  {
+    "name": "Usine de traitement des pommes de terre",
+    "inputs": ["Pomme de terre", "Riz", "Riz long grain", "Huile de colza", "Huile de tournesol", "Huile d'olive"],
+    "outputs": ["Chips", "Galettes de riz soufflé"]
+  },
+  {
+    "name": "Serre",
+    "inputs": ["eau"],
+    "outputs": ["Fraise", "Laitue", "Tomates", "Oignons de printemps", "Chou", "Piments", "Ail"]
+  },
+  {
+    "name": "Cordier",
+    "inputs": ["Laine", "Coton"],
+    "outputs": ["Corde"]
+  },
+  {
+    "name": "Serre à champignons",
+    "inputs": ["eau"],
+    "outputs": ["Pleurote", "Enoki"]
+  },
+  {
+    "name": "Unité de traitement du raisin",
+    "inputs": ["Raisin"],
+    "outputs": ["Jus de raisin", "Raisins secs"]
+  },
+  {
+    "name": "Serre pour plants de riz",
+    "inputs": ["eau"],
+    "outputs": ["Plants de riz"]
+  },
+  {
+    "name": "Boulangerie",
+    "inputs": ["Farine", "Sucre", "Lait", "Oeufs", "Beurre", "Fraises", "Farine de riz"],
+    "outputs": ["Pain", "Gateau", "Pain (farine de riz)", "Gâteau (farine de riz)"]
+  },
+  {
+    "name": "Fromages Fermiers",
+    "inputs": ["Lait", "Lait de bufflonne", "Lait de chèvre", "Sucre", "Moutarde"],
+    "outputs": ["Beurre", "Fromage"]
+  },
+  {
+    "name": "Usine de céréales",
+    "inputs": ["Miel", "Avoine", "Raisins secs"],
+    "outputs": ["Céréales"]
+  },
+  {
+    "name": "Usine de pâtes",
+    "inputs": ["Farine", "Oeufs"],
+    "outputs": ["Pâtes"]
+  },
+  {
+    "name": "Usine de frites",
+    "inputs": ["Pomme de terre", "Huile de tournesol"],
+    "outputs": ["Frites"]
+  },
+  {
+    "name": "Usine de yaourt",
+    "inputs": ["Lait", "Fraise"],
+    "outputs": ["Yaourt"]
+  },
+  {
+    "name": "Les Moulins Saint Frères",
+    "inputs": ["Avoine", "Blé", "Riz long grain", "Riz", "Olives", "Colza", "Tournesols"],
+    "outputs": ["Avoine Farine", "Blé Farine", "Farine de riz (Riz long grain)", "Farine de riz (Riz)", "Huile d'olive", "Huile de colza", "Huile de riz (Riz long grain)", "Huile de riz (Riz)", "Huile de tournesol"]
+  },
+  {
+    "name": "Usine de biogaz 250 KW",
+    "inputs": ["Betteraves sucrières coupées", "Ensilage", "Ensilage de luzerne", "Ensilage de trèfle", "Foin de luzerne", "Foin de trèfle", "Fumier", "Lisier", "Luzerne"],
+    "outputs": ["Digestat"]
+  },
+  {
+    "name": "Ruche",
+    "inputs": [],
+    "outputs": ["Miel"]
+  }
+]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="79">
+    <author>WebSync Companion</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>FS25 WebSync</en>
+        <fr>FS25 WebSync</fr>
+    </title>
+    <description>
+        <en>Synchronizes game data with the Web Companion App.</en>
+        <fr>Synchronise les donnees du jeu avec l'application Web Companion.</fr>
+    </description>
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="WebSync.lua" />
+    </extraSourceFiles>
+</modDesc>

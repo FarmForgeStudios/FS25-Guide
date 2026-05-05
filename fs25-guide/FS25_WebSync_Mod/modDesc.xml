@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="90">
+    <author>Assistant FS25</author>
+    <version>1.0.1.3</version>
+    <title>
+        <en>Web Sync for FS25</en>
+        <fr>Synchronisation Web pour FS25</fr>
+    </title>
+    <description>
+        <en>Exports game data (prices, storage) to a local JSON file for the Web Dashboard.</en>
+        <fr>Exporte les données du jeu (prix, stockage) vers un fichier JSON local pour le tableau de bord Web.</fr>
+    </description>
+    <iconFilename>icon_WebSync.dds</iconFilename>
+    <multiplayer supported="true"/>
+    <extraSourceFiles>
+        <sourceFile filename="WebSync.lua" />
+    </extraSourceFiles>
+</modDesc>

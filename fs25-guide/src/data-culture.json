@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Orge",
+    "yieldPerHa": "19,200 l",
+    "avgPrice": "938 €",
+    "seedsPerHa": "265 l",
+    "plantIn": "Sep - Oct",
+    "harvestIn": "Jun - Jul"
+  },
+  {
+    "name": "Colza",
+    "yieldPerHa": "11,600 l",
+    "avgPrice": "1808 €",
+    "seedsPerHa": "7 l",
+    "plantIn": "Aou - Sep",
+    "harvestIn": "Jul - Aou"
+  },
+  {
+    "name": "Carottes",
+    "yieldPerHa": "154,000 l",
+    "avgPrice": "395 €",
+    "seedsPerHa": "10 l",
+    "plantIn": "Avr - Jul",
+    "harvestIn": "Aou - Nov"
+  },
+  {
+    "name": "Mais",
+    "yieldPerHa": "18,400 l",
+    "avgPrice": "1139 €",
+    "seedsPerHa": "53 l",
+    "plantIn": "Avr - Mai",
+    "harvestIn": "Aug - Nov"
+  },
+  {
+    "name": "Coton",
+    "yieldPerHa": "9,940 l",
+    "avgPrice": "3755 €",
+    "seedsPerHa": "50 l",
+    "plantIn": "Fèv - Mar",
+    "harvestIn": "Oct - Nov"
+  },
+  {
+    "name": "Raisin",
+    "yieldPerHa": "18,400 l",
+    "avgPrice": "1808 €",
+    "seedsPerHa": "N/A",
+    "plantIn": "Mar - Mai",
+    "harvestIn": "Sep - Oct"
+  },
+  {
+    "name": "Herbe",
+    "yieldPerHa": "87,400 l",
+    "avgPrice": "135 €",
+    "seedsPerHa": "160 l",
+    "plantIn": "Mar - Nov",
+    "harvestIn": "Jan - Déc"
+  },
+  {
+    "name": "Haricots verts",
+    "yieldPerHa": "13,950 l",
+    "avgPrice": "2160 €",
+    "seedsPerHa": "280 l",
+    "plantIn": "Avr - Jun",
+    "harvestIn": "Aou - Nov"
+  },
+  {
+    "name": "Avoine",
+    "yieldPerHa": "11,400 l",
+    "avgPrice": "1596 €",
+    "seedsPerHa": "340 l",
+    "plantIn": "Mar - Avr",
+    "harvestIn": "Jul - Aou"
+  },
+  {
+    "name": "Radis oléagineux",
+    "yieldPerHa": "9,000 l",
+    "avgPrice": "1596 €",
+    "seedsPerHa": "340 l",
+    "plantIn": "Mar - Oct",
+    "harvestIn": "Jan - Déc"
+  },
+  {
+    "name": "Olives",
+    "yieldPerHa": "18,400 l",
+    "avgPrice": "1808 €",
+    "seedsPerHa": "N/A",
+    "plantIn": "Mar - Jun",
+    "harvestIn": "Oct"
+  },
+  {
+    "name": "Panais",
+    "yieldPerHa": "139,000 l",
+    "avgPrice": "392 €",
+    "seedsPerHa": "10 l",
+    "plantIn": "Avr - Jun",
+    "harvestIn": "Aou - Nov"
+  },
+  {
+    "name": "Petits pois",
+    "yieldPerHa": "9,600 l",
+    "avgPrice": "3119 €",
+    "seedsPerHa": "250 l",
+    "plantIn": "Mar - Avr",
+    "harvestIn": "Jul - Sep"
+  },
+  {
+    "name": "Peuplier",
+    "yieldPerHa": "56,400 l",
+    "avgPrice": "119 €",
+    "seedsPerHa": "1500 l",
+    "plantIn": "Mar - Aou",
+    "harvestIn": "Jan - Déc"
+  },
+  {
+    "name": "Pomme de terre",
+    "yieldPerHa": "82,600 l",
+    "avgPrice": "666 €",
+    "seedsPerHa": "3,733 l",
+    "plantIn": "Mar - Avr",
+    "harvestIn": "Aou - Oct"
+  },
+  {
+    "name": "Riz long grain",
+    "yieldPerHa": "18,000 l",
+    "avgPrice": "1589 €",
+    "seedsPerHa": "500 l",
+    "plantIn": "Avr",
+    "harvestIn": "Sep"
+  },
+  {
+    "name": "Betterave",
+    "yieldPerHa": "115,600 l",
+    "avgPrice": "366 €",
+    "seedsPerHa": "40 l",
+    "plantIn": "Avr - Jun",
+    "harvestIn": "Aou - Nov"
+  },
+  {
+    "name": "Riz",
+    "yieldPerHa": "13,200 l",
+    "avgPrice": "3300 €",
+    "seedsPerHa": "156 l",
+    "plantIn": "Avr - Mai",
+    "harvestIn": "Aou - Sep"
+  },
+  {
+    "name": "Sorgho",
+    "yieldPerHa": "16,400 l",
+    "avgPrice": "1290 €",
+    "seedsPerHa": "35 l",
+    "plantIn": "Avr - Mai",
+    "harvestIn": "Aou - Sep"
+  },
+  {
+    "name": "Soja",
+    "yieldPerHa": "9,000 l",
+    "avgPrice": "2333 €",
+    "seedsPerHa": "214 l",
+    "plantIn": "Avr - Mai",
+    "harvestIn": "Oct - Nov"
+  },
+  {
+    "name": "Epinards",
+    "yieldPerHa": "46,200 l",
+    "avgPrice": "659 €",
+    "seedsPerHa": "10 l",
+    "plantIn": "Mar - Mai",
+    "harvestIn": "Jan - Déc"
+  },
+  {
+    "name": "Betterave sucrières",
+    "yieldPerHa": "115,600 l",
+    "avgPrice": "516 €",
+    "seedsPerHa": "34 l",
+    "plantIn": "Mar - Avr",
+    "harvestIn": "Oct - Nov"
+  },
+  {
+    "name": "Canne à sucre",
+    "yieldPerHa": "226,800 l",
+    "avgPrice": "357 €",
+    "seedsPerHa": "12,000 l",
+    "plantIn": "Mar - Avr",
+    "harvestIn": "Oct - Nov"
+  },
+  {
+    "name": "Tournesols",
+    "yieldPerHa": "10,400 l",
+    "avgPrice": "2018 €",
+    "seedsPerHa": "143 l",
+    "plantIn": "Mar - Avr",
+    "harvestIn": "Oct - Nov"
+  },
+  {
+    "name": "Chou",
+    "yieldPerHa": "168,000 l",
+    "avgPrice": "380 €",
+    "seedsPerHa": "12 l",
+    "plantIn": "Avr - Jun",
+    "harvestIn": "Aou - Nov"
+  },
+  {
+    "name": "Blé",
+    "yieldPerHa": "17,800 l",
+    "avgPrice": "1011 €",
+    "seedsPerHa": "308 l",
+    "plantIn": "Sep - Oct",
+    "harvestIn": "Jul - Aou"
+  },
+  {
+    "name": "Moutarde",
+    "yieldPerHa": "12,000 l",
+    "avgPrice": "1200 €",
+    "seedsPerHa": "15 l",
+    "plantIn": "Jun - Jul",
+    "harvestIn": "Mai - Jun"
+  },
+  {
+    "name": "Luzerne",
+    "yieldPerHa": "15,000 l",
+    "avgPrice": "150 €",
+    "seedsPerHa": "20 l",
+    "plantIn": "Jan - Aou",
+    "harvestIn": "Jan - Dec"
+  },
+  {
+    "name": "Trèfle",
+    "yieldPerHa": "14,000 l",
+    "avgPrice": "140 €",
+    "seedsPerHa": "15 l",
+    "plantIn": "Jan - Jul",
+    "harvestIn": "Avr - Sep"
+  },
+  {
+    "name": "Blé d'été",
+    "yieldPerHa": "N/A",
+    "avgPrice": "N/A",
+    "seedsPerHa": "N/A",
+    "plantIn": "Dec - Jan",
+    "harvestIn": "Jun - Jul"
+  },
+  {
+    "name": "Orge d'été",
+    "yieldPerHa": "N/A",
+    "avgPrice": "N/A",
+    "seedsPerHa": "N/A",
+    "plantIn": "Dec - Jan",
+    "harvestIn": "Mai - Jun"
+  },
+  {
+    "name": "Seigle",
+    "yieldPerHa": "N/A",
+    "avgPrice": "N/A",
+    "seedsPerHa": "N/A",
+    "plantIn": "Jul - Aou",
+    "harvestIn": "Mai - Jun"
+  },
+  {
+    "name": "Triticale",
+    "yieldPerHa": "N/A",
+    "avgPrice": "N/A",
+    "seedsPerHa": "N/A",
+    "plantIn": "Jul - Aou",
+    "harvestIn": "Mai - Jun"
+  },
+  {
+    "name": "Épeautre",
+    "yieldPerHa": "N/A",
+    "avgPrice": "N/A",
+    "seedsPerHa": "N/A",
+    "plantIn": "Aou",
+    "harvestIn": "Mai - Jun"
+  },
+  {
+    "name": "Vesce-seigle",
+    "yieldPerHa": "N/A",
+    "avgPrice": "N/A",
+    "seedsPerHa": "N/A",
+    "plantIn": "Jul - Aou",
+    "harvestIn": "Jan - Fev"
+  },
+  {
+    "name": "Seigle vert",
+    "yieldPerHa": "N/A",
+    "avgPrice": "N/A",
+    "seedsPerHa": "N/A",
+    "plantIn": "Jul - Aou",
+    "harvestIn": "Fev"
+  },
+  {
+    "name": "Couvert végétal",
+    "yieldPerHa": "N/A",
+    "avgPrice": "N/A",
+    "seedsPerHa": "N/A",
+    "plantIn": "Jan - Oct",
+    "harvestIn": "Jan - Dec"
+  },
+  {
+    "name": "Blé d'hiver",
+    "yieldPerHa": "N/A",
+    "avgPrice": "N/A",
+    "seedsPerHa": "N/A",
+    "plantIn": "Jul - Aou",
+    "harvestIn": "Mai - Jun"
+  },
+  {
+    "name": "Orge d'hiver",
+    "yieldPerHa": "N/A",
+    "avgPrice": "N/A",
+    "seedsPerHa": "N/A",
+    "plantIn": "Jul - Aou",
+    "harvestIn": "Avr - Mai"
+  }
+]
